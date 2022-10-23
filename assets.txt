@@ -1,0 +1,12 @@
+https://paletadecolores.online/en/pink/
+
+
+#C93384
+#e44f9c
+#ff69b4
+#ff97d9
+#ffc1ff
+
+Background: #f9d6d5
+
+black: #161515
